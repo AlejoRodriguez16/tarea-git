@@ -4,4 +4,3 @@ yerba
 pan
 lavandina
 papel higienico
-detergente
